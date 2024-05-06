@@ -24,6 +24,8 @@ pip install argparse argcomplete tqdm colorama
 python dnsfuzzer.py -d <domain> -w <wordlist> [-r <resolver>] [-t <threads>] [-T <timeout>]
 ```
 
+<img src="demo.png" alt="Demo" width="800"/>
+
 ### Options
 
 - `-d`, `--domain`: Domain to enumerate subdomains of (required).
